@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,700');
+
+
+div a{
+    padding:4px 22px;
+    background-color: rgba(230, 246, 9, 0.964);
+    color:#fd0c0cfb;
+    border-radius:30px;
+    font-size: 14px;
+    font-weight:600;
+    font-style:italic;
+    margin:15px 0;
+    display: inline-block;
+
+}
